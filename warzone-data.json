@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-23T02:09:28.517893+00:00",
+  "generatedAt": "2026-02-23T02:17:27.426805+00:00",
   "sources": [
     "https://www.callofduty.com/blog.rss",
     "https://www.reddit.com/r/CODWarzone/new/.rss",
@@ -11,8 +11,8 @@
       "title": "cod_blog fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
-      "observedAt": "2026-02-23T02:09:28.242945+00:00",
-      "summary": "Scrape error: [Errno 60] Operation timed out",
+      "observedAt": "2026-02-23T02:17:27.195413+00:00",
+      "summary": "Scrape error: The read operation timed out",
       "error": true
     },
     {
@@ -20,7 +20,7 @@
       "title": "reddit_codwarzone fetch error",
       "url": "https://www.reddit.com/r/CODWarzone/new/.rss",
       "publishedAt": null,
-      "observedAt": "2026-02-23T02:09:28.405033+00:00",
+      "observedAt": "2026-02-23T02:17:27.326513+00:00",
       "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     },
@@ -29,10 +29,52 @@
       "title": "reddit_search fetch error",
       "url": "https://www.reddit.com/search.rss?q=warzone%20patch%20notes&sort=new",
       "publishedAt": null,
-      "observedAt": "2026-02-23T02:09:28.517572+00:00",
+      "observedAt": "2026-02-23T02:17:27.426243+00:00",
       "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     }
   ],
-  "highlights": []
+  "highlights": [],
+  "patchNotes": {
+    "updatedAt": "2026-02-23T02:17:27.426832+00:00",
+    "items": []
+  },
+  "tierList": {
+    "updatedAt": "2026-02-23T02:17:27.426838+00:00",
+    "method": "auto-placeholder-until-signal-model-enabled",
+    "tiers": {
+      "S": [
+        "Kilo 141 (pending source-confirmed ranking)",
+        "AMAX (pending source-confirmed ranking)"
+      ],
+      "A": [
+        "MCW (pending source-confirmed ranking)",
+        "HRM-9 (pending source-confirmed ranking)"
+      ],
+      "B": [
+        "Rival-9 (pending source-confirmed ranking)",
+        "Holger (pending source-confirmed ranking)"
+      ]
+    }
+  },
+  "shopProducts": [
+    {
+      "name": "Pro Controller",
+      "category": "Controller",
+      "note": "Low latency + rear paddles",
+      "url": "https://www.amazon.com/?tag=REPLACE_WITH_TAG"
+    },
+    {
+      "name": "Tournament Headset",
+      "category": "Audio",
+      "note": "Footstep clarity and directional imaging",
+      "url": "https://www.amazon.com/?tag=REPLACE_WITH_TAG"
+    },
+    {
+      "name": "Performance Thumbsticks",
+      "category": "Accessories",
+      "note": "Fine-aim control for long-range beams",
+      "url": "https://www.amazon.com/?tag=REPLACE_WITH_TAG"
+    }
+  ]
 }
