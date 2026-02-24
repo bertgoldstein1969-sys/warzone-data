@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T15:00:24.159986+00:00",
+  "generatedAt": "2026-02-24T19:00:21.250973+00:00",
   "sources": [
     "https://www.callofduty.com/blog.rss",
     "https://www.reddit.com/r/CODWarzone/new/.rss",
@@ -11,7 +11,7 @@
       "title": "cod_blog fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
-      "observedAt": "2026-02-24T15:00:23.955415+00:00",
+      "observedAt": "2026-02-24T19:00:21.059110+00:00",
       "summary": "Scrape error: [Errno 60] Operation timed out",
       "error": true
     },
@@ -20,7 +20,7 @@
       "title": "reddit_codwarzone fetch error",
       "url": "https://www.reddit.com/r/CODWarzone/new/.rss",
       "publishedAt": null,
-      "observedAt": "2026-02-24T15:00:24.055091+00:00",
+      "observedAt": "2026-02-24T19:00:21.143604+00:00",
       "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     },
@@ -29,18 +29,18 @@
       "title": "reddit_search fetch error",
       "url": "https://www.reddit.com/search.rss?q=warzone%20patch%20notes&sort=new",
       "publishedAt": null,
-      "observedAt": "2026-02-24T15:00:24.159431+00:00",
+      "observedAt": "2026-02-24T19:00:21.250317+00:00",
       "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     }
   ],
   "highlights": [],
   "patchNotes": {
-    "updatedAt": "2026-02-24T15:00:24.160014+00:00",
+    "updatedAt": "2026-02-24T19:00:21.251004+00:00",
     "items": []
   },
   "tierList": {
-    "updatedAt": "2026-02-24T15:00:24.160023+00:00",
+    "updatedAt": "2026-02-24T19:00:21.251012+00:00",
     "method": "auto-placeholder-until-signal-model-enabled",
     "tiers": {
       "S": [
