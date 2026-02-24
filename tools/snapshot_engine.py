@@ -84,7 +84,20 @@ def build_snapshot(weapons, prev_snapshot_map, mentions_blob):
     return out
 
 
-def compute_trends(today_weapons, yesterday_map):
+def time_in_tier(weapon_name, tier, history):
+    days = 0
+    for entry in reversed(history):
+        ws = entry.get('weapons', []) if isinstance(entry, dict) else []
+        found = next((x for x in ws if x.get('weaponName') == weapon_name), None)
+        if not found:
+            break
+        if (found.get('tier') or '').upper() != (tier or '').upper():
+            break
+        days += 1
+    return days
+
+
+def compute_trends(today_weapons, yesterday_map, history):
     enriched = []
     for w in today_weapons:
         prev = yesterday_map.get(w['weaponName'])
@@ -104,13 +117,25 @@ def compute_trends(today_weapons, yesterday_map):
         elif delta_score < -1:
             trend = 'down'
 
+        momentum = int((delta_score * 1.5) + (d_pop * 0.8))
+        heat = 'stable'
+        if momentum > 8:
+            heat = 'hot'
+        elif momentum < -8:
+            heat = 'cooling'
+
+        days_in_tier = time_in_tier(w['weaponName'], w['tier'], history)
+
         enriched.append({
             **w,
             'trend': trend,
             'deltaScore': int(delta_score),
             'deltaPopularity': int(d_pop),
             'deltaPatchImpact': int(d_impact),
-            'tierChange': int(tier_delta)
+            'tierChange': int(tier_delta),
+            'momentumScore': int(momentum),
+            'timeInTier': int(days_in_tier),
+            'heatLevel': heat
         })
 
     sorted_up = sorted(enriched, key=lambda x: x['deltaScore'], reverse=True)
@@ -173,7 +198,7 @@ def main():
         f.write('\n')
 
     yesterday_map = {w.get('weaponName'): w for w in (yesterday or {}).get('weapons', []) if w.get('weaponName')}
-    trends, summary = compute_trends(today_weapons, yesterday_map)
+    trends, summary = compute_trends(today_weapons, yesterday_map, history_out)
 
     trends_doc = {
         'date': today,
