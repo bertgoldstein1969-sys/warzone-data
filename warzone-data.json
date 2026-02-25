@@ -8,29 +8,29 @@
   "items": [
     {
       "source": "cod_blog",
-      "title": "cod_blog fetch error",
+      "title": "Call of Duty Blog — fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
       "observedAt": "2026-02-24T23:00:20.904840+00:00",
-      "summary": "Scrape error: [Errno 60] Operation timed out",
+      "summary": "Scrape error: connection timed out while fetching the Call of Duty blog feed (Errno 60).",
       "error": true
     },
     {
       "source": "reddit_codwarzone",
-      "title": "reddit_codwarzone fetch error",
+      "title": "r/CODWarzone — fetch error",
       "url": "https://www.reddit.com/r/CODWarzone/new/.rss",
       "publishedAt": null,
       "observedAt": "2026-02-24T23:00:20.985098+00:00",
-      "summary": "Scrape error: HTTP Error 403: Blocked",
+      "summary": "Scrape error: Reddit blocked access to the r/CODWarzone feed (HTTP 403).",
       "error": true
     },
     {
       "source": "reddit_search",
-      "title": "reddit_search fetch error",
+      "title": "Reddit search — fetch error",
       "url": "https://www.reddit.com/search.rss?q=warzone%20patch%20notes&sort=new",
       "publishedAt": null,
       "observedAt": "2026-02-24T23:00:21.073336+00:00",
-      "summary": "Scrape error: HTTP Error 403: Blocked",
+      "summary": "Scrape error: Reddit blocked access to the search RSS (HTTP 403).",
       "error": true
     }
   ],
@@ -73,7 +73,7 @@
     {
       "name": "Performance Thumbsticks",
       "category": "Accessories",
-      "note": "Fine-aim control for long-range beams",
+      "note": "Fine-aim control for long-range engagements",
       "url": "https://www.amazon.com/?tag=REPLACE_WITH_TAG"
     }
   ]
