@@ -8,11 +8,11 @@
   "items": [
     {
       "source": "cod_blog",
-      "title": "cod_blog fetch error",
+      "title": "Call of Duty Blog — fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
       "observedAt": "2026-02-25T23:00:21.117574+00:00",
-      "summary": "Scrape error: [Errno 60] Operation timed out",
+      "summary": "Scrape error: connection timed out while fetching the Call of Duty blog feed (Errno 60).",
       "error": true
     }
   ],
@@ -55,7 +55,7 @@
     {
       "name": "Performance Thumbsticks",
       "category": "Accessories",
-      "note": "Fine-aim control for long-range beams",
+      "note": "Fine-aim control for long-range engagements",
       "url": "https://www.amazon.com/?tag=REPLACE_WITH_TAG"
     }
   ]
