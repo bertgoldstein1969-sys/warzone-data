@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T23:00:22.230122+00:00",
+  "generatedAt": "2026-03-03T03:00:23.958531+00:00",
   "sources": [
     "https://www.callofduty.com/blog.rss",
     "https://www.reddit.com/r/CODWarzone/new/.rss",
@@ -11,18 +11,18 @@
       "title": "cod_blog fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
-      "observedAt": "2026-03-02T23:00:20.185663+00:00",
-      "summary": "Scrape error: [Errno 60] Operation timed out",
+      "observedAt": "2026-03-03T03:00:21.884723+00:00",
+      "summary": "Scrape error: The read operation timed out",
       "error": true
     }
   ],
   "highlights": [],
   "patchNotes": {
-    "updatedAt": "2026-03-02T23:00:22.230154+00:00",
+    "updatedAt": "2026-03-03T03:00:23.958564+00:00",
     "items": []
   },
   "tierList": {
-    "updatedAt": "2026-03-02T23:00:22.230161+00:00",
+    "updatedAt": "2026-03-03T03:00:23.958571+00:00",
     "method": "auto-placeholder-until-signal-model-enabled",
     "tiers": {
       "S": [
