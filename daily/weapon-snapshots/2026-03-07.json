@@ -1,0 +1,286 @@
+{
+  "date": "2026-03-07",
+  "generatedAt": "2026-03-07T03:00:23.259304+00:00",
+  "weapons": [
+    {
+      "weaponName": "M8A1",
+      "tier": "S",
+      "ttk": 496,
+      "popularity": 82,
+      "patchImpactScore": 98,
+      "timestamp": "2026-03-07T03:00:23.259234+00:00"
+    },
+    {
+      "weaponName": "XM325",
+      "tier": "S",
+      "ttk": 502,
+      "popularity": 82,
+      "patchImpactScore": 98,
+      "timestamp": "2026-03-07T03:00:23.259241+00:00"
+    },
+    {
+      "weaponName": "A.R.C. M1",
+      "tier": "S",
+      "ttk": 502,
+      "popularity": 82,
+      "patchImpactScore": 98,
+      "timestamp": "2026-03-07T03:00:23.259245+00:00"
+    },
+    {
+      "weaponName": "Razor 9mm",
+      "tier": "S",
+      "ttk": 497,
+      "popularity": 82,
+      "patchImpactScore": 98,
+      "timestamp": "2026-03-07T03:00:23.259247+00:00"
+    },
+    {
+      "weaponName": "Sokol 545",
+      "tier": "S",
+      "ttk": 500,
+      "popularity": 82,
+      "patchImpactScore": 98,
+      "timestamp": "2026-03-07T03:00:23.259249+00:00"
+    },
+    {
+      "weaponName": "AK-27",
+      "tier": "A",
+      "ttk": 512,
+      "popularity": 72,
+      "patchImpactScore": 83,
+      "timestamp": "2026-03-07T03:00:23.259251+00:00"
+    },
+    {
+      "weaponName": "MADDOX RFB",
+      "tier": "A",
+      "ttk": 512,
+      "popularity": 72,
+      "patchImpactScore": 83,
+      "timestamp": "2026-03-07T03:00:23.259253+00:00"
+    },
+    {
+      "weaponName": "Carbon 57",
+      "tier": "A",
+      "ttk": 509,
+      "popularity": 72,
+      "patchImpactScore": 83,
+      "timestamp": "2026-03-07T03:00:23.259255+00:00"
+    },
+    {
+      "weaponName": "H311-SAW",
+      "tier": "A",
+      "ttk": 508,
+      "popularity": 72,
+      "patchImpactScore": 83,
+      "timestamp": "2026-03-07T03:00:23.259256+00:00"
+    },
+    {
+      "weaponName": "AAROW 109",
+      "tier": "A",
+      "ttk": 505,
+      "popularity": 72,
+      "patchImpactScore": 83,
+      "timestamp": "2026-03-07T03:00:23.259258+00:00"
+    },
+    {
+      "weaponName": "Dravec 45",
+      "tier": "A",
+      "ttk": 516,
+      "popularity": 72,
+      "patchImpactScore": 83,
+      "timestamp": "2026-03-07T03:00:23.259260+00:00"
+    },
+    {
+      "weaponName": "Hawker HX",
+      "tier": "A",
+      "ttk": 518,
+      "popularity": 72,
+      "patchImpactScore": 83,
+      "timestamp": "2026-03-07T03:00:23.259262+00:00"
+    },
+    {
+      "weaponName": "MXR-17",
+      "tier": "B",
+      "ttk": 520,
+      "popularity": 60,
+      "patchImpactScore": 66,
+      "timestamp": "2026-03-07T03:00:23.259263+00:00"
+    },
+    {
+      "weaponName": "M15 MOD 0",
+      "tier": "B",
+      "ttk": 525,
+      "popularity": 60,
+      "patchImpactScore": 66,
+      "timestamp": "2026-03-07T03:00:23.259265+00:00"
+    },
+    {
+      "weaponName": "MPC-25",
+      "tier": "B",
+      "ttk": 522,
+      "popularity": 60,
+      "patchImpactScore": 66,
+      "timestamp": "2026-03-07T03:00:23.259267+00:00"
+    },
+    {
+      "weaponName": "RK-9",
+      "tier": "B",
+      "ttk": 525,
+      "popularity": 60,
+      "patchImpactScore": 66,
+      "timestamp": "2026-03-07T03:00:23.259269+00:00"
+    },
+    {
+      "weaponName": "M34 Novaline",
+      "tier": "B",
+      "ttk": 518,
+      "popularity": 60,
+      "patchImpactScore": 66,
+      "timestamp": "2026-03-07T03:00:23.259270+00:00"
+    },
+    {
+      "weaponName": "Echo 12",
+      "tier": "B",
+      "ttk": 528,
+      "popularity": 60,
+      "patchImpactScore": 66,
+      "timestamp": "2026-03-07T03:00:23.259272+00:00"
+    },
+    {
+      "weaponName": "Jäger 45",
+      "tier": "B",
+      "ttk": 525,
+      "popularity": 60,
+      "patchImpactScore": 66,
+      "timestamp": "2026-03-07T03:00:23.259274+00:00"
+    },
+    {
+      "weaponName": "GDL Havoc",
+      "tier": "B",
+      "ttk": 520,
+      "popularity": 60,
+      "patchImpactScore": 66,
+      "timestamp": "2026-03-07T03:00:23.259276+00:00"
+    },
+    {
+      "weaponName": "DS20 Mirage",
+      "tier": "C",
+      "ttk": 532,
+      "popularity": 50,
+      "patchImpactScore": 50,
+      "timestamp": "2026-03-07T03:00:23.259278+00:00"
+    },
+    {
+      "weaponName": "PEACEKEEPER MK1",
+      "tier": "C",
+      "ttk": 534,
+      "popularity": 50,
+      "patchImpactScore": 50,
+      "timestamp": "2026-03-07T03:00:23.259280+00:00"
+    },
+    {
+      "weaponName": "X9 Maverick",
+      "tier": "C",
+      "ttk": 533,
+      "popularity": 50,
+      "patchImpactScore": 50,
+      "timestamp": "2026-03-07T03:00:23.259281+00:00"
+    },
+    {
+      "weaponName": "REV-46",
+      "tier": "C",
+      "ttk": 544,
+      "popularity": 50,
+      "patchImpactScore": 50,
+      "timestamp": "2026-03-07T03:00:23.259283+00:00"
+    },
+    {
+      "weaponName": "Ryden 45K",
+      "tier": "C",
+      "ttk": 541,
+      "popularity": 50,
+      "patchImpactScore": 50,
+      "timestamp": "2026-03-07T03:00:23.259285+00:00"
+    },
+    {
+      "weaponName": "M10 Breacher",
+      "tier": "C",
+      "ttk": 538,
+      "popularity": 50,
+      "patchImpactScore": 50,
+      "timestamp": "2026-03-07T03:00:23.259287+00:00"
+    },
+    {
+      "weaponName": "Akita",
+      "tier": "C",
+      "ttk": 535,
+      "popularity": 50,
+      "patchImpactScore": 50,
+      "timestamp": "2026-03-07T03:00:23.259289+00:00"
+    },
+    {
+      "weaponName": "Coda 9",
+      "tier": "C",
+      "ttk": 547,
+      "popularity": 50,
+      "patchImpactScore": 50,
+      "timestamp": "2026-03-07T03:00:23.259290+00:00"
+    },
+    {
+      "weaponName": "EGRT-17",
+      "tier": "D",
+      "ttk": 552,
+      "popularity": 40,
+      "patchImpactScore": 35,
+      "timestamp": "2026-03-07T03:00:23.259292+00:00"
+    },
+    {
+      "weaponName": "MK.78",
+      "tier": "D",
+      "ttk": 553,
+      "popularity": 40,
+      "patchImpactScore": 35,
+      "timestamp": "2026-03-07T03:00:23.259294+00:00"
+    },
+    {
+      "weaponName": "NX Ravager",
+      "tier": "D",
+      "ttk": 550,
+      "popularity": 40,
+      "patchImpactScore": 35,
+      "timestamp": "2026-03-07T03:00:23.259296+00:00"
+    },
+    {
+      "weaponName": "SG-12",
+      "tier": "D",
+      "ttk": 556,
+      "popularity": 40,
+      "patchImpactScore": 35,
+      "timestamp": "2026-03-07T03:00:23.259298+00:00"
+    },
+    {
+      "weaponName": "Knife",
+      "tier": "D",
+      "ttk": 480,
+      "popularity": 40,
+      "patchImpactScore": 35,
+      "timestamp": "2026-03-07T03:00:23.259299+00:00"
+    },
+    {
+      "weaponName": "Ballistic Knife",
+      "tier": "D",
+      "ttk": 495,
+      "popularity": 40,
+      "patchImpactScore": 35,
+      "timestamp": "2026-03-07T03:00:23.259301+00:00"
+    },
+    {
+      "weaponName": "Flatline MK.II",
+      "tier": "D",
+      "ttk": 488,
+      "popularity": 40,
+      "patchImpactScore": 35,
+      "timestamp": "2026-03-07T03:00:23.259303+00:00"
+    }
+  ]
+}
