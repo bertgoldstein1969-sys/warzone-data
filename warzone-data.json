@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T22:00:24.367526+00:00",
+  "generatedAt": "2026-03-18T02:00:24.443074+00:00",
   "sources": [
     "https://www.callofduty.com/blog.rss",
     "https://www.reddit.com/r/CODWarzone/new/.rss",
@@ -8,21 +8,21 @@
   "items": [
     {
       "source": "cod_blog",
-      "title": "Call of Duty Blog — fetch error",
+      "title": "cod_blog fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
-      "observedAt": "2026-03-17T22:00:22.232936+00:00",
-      "summary": "Scrape error: connection timed out while fetching the Call of Duty blog RSS feed (Errno 60).",
+      "observedAt": "2026-03-18T02:00:21.669993+00:00",
+      "summary": "Scrape error: [Errno 60] Operation timed out",
       "error": true
     }
   ],
   "highlights": [],
   "patchNotes": {
-    "updatedAt": "2026-03-17T22:00:24.367557+00:00",
+    "updatedAt": "2026-03-18T02:00:24.443105+00:00",
     "items": []
   },
   "tierList": {
-    "updatedAt": "2026-03-17T22:00:24.367564+00:00",
+    "updatedAt": "2026-03-18T02:00:24.443111+00:00",
     "method": "auto-placeholder-until-signal-model-enabled",
     "tiers": {
       "S": [
