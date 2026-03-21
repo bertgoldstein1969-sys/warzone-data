@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T14:02:04.769145+00:00",
+  "generatedAt": "2026-03-21T18:00:20.376152+00:00",
   "sources": [
     "https://www.callofduty.com/blog.rss",
     "https://www.reddit.com/r/CODWarzone/new/.rss",
@@ -11,8 +11,8 @@
       "title": "cod_blog fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
-      "observedAt": "2026-03-21T14:01:04.762176+00:00",
-      "summary": "Scrape error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "observedAt": "2026-03-21T18:00:20.207953+00:00",
+      "summary": "Scrape error: [Errno 60] Operation timed out",
       "error": true
     },
     {
@@ -20,8 +20,8 @@
       "title": "reddit_codwarzone fetch error",
       "url": "https://www.reddit.com/r/CODWarzone/new/.rss",
       "publishedAt": null,
-      "observedAt": "2026-03-21T14:01:34.766523+00:00",
-      "summary": "Scrape error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "observedAt": "2026-03-21T18:00:20.291090+00:00",
+      "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     },
     {
@@ -29,18 +29,18 @@
       "title": "reddit_search fetch error",
       "url": "https://www.reddit.com/search.rss?q=warzone%20patch%20notes&sort=new",
       "publishedAt": null,
-      "observedAt": "2026-03-21T14:02:04.768752+00:00",
-      "summary": "Scrape error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "observedAt": "2026-03-21T18:00:20.375657+00:00",
+      "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     }
   ],
   "highlights": [],
   "patchNotes": {
-    "updatedAt": "2026-03-21T14:02:04.769170+00:00",
+    "updatedAt": "2026-03-21T18:00:20.376179+00:00",
     "items": []
   },
   "tierList": {
-    "updatedAt": "2026-03-21T14:02:04.769177+00:00",
+    "updatedAt": "2026-03-21T18:00:20.376186+00:00",
     "method": "auto-placeholder-until-signal-model-enabled",
     "tiers": {
       "S": [
