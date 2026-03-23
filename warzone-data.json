@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T22:00:24.438773+00:00",
+  "generatedAt": "2026-03-23T02:00:27.109754+00:00",
   "sources": [
     "https://www.callofduty.com/blog.rss",
     "https://www.reddit.com/r/CODWarzone/new/.rss",
@@ -8,39 +8,39 @@
   "items": [
     {
       "source": "cod_blog",
-      "title": "Call of Duty Blog — fetch error",
+      "title": "cod_blog fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
-      "observedAt": "2026-03-22T22:00:24.246388+00:00",
-      "summary": "Scrape error: connection timed out while fetching the Call of Duty blog RSS feed (Errno 60).",
+      "observedAt": "2026-03-23T02:00:26.945866+00:00",
+      "summary": "Scrape error: The read operation timed out",
       "error": true
     },
     {
       "source": "reddit_codwarzone",
-      "title": "r/CODWarzone — fetch error",
+      "title": "reddit_codwarzone fetch error",
       "url": "https://www.reddit.com/r/CODWarzone/new/.rss",
       "publishedAt": null,
-      "observedAt": "2026-03-22T22:00:24.359095+00:00",
-      "summary": "Scrape error: Reddit blocked access to the r/CODWarzone feed (HTTP 403).",
+      "observedAt": "2026-03-23T02:00:27.028965+00:00",
+      "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     },
     {
       "source": "reddit_search",
-      "title": "Reddit search — fetch error",
+      "title": "reddit_search fetch error",
       "url": "https://www.reddit.com/search.rss?q=warzone%20patch%20notes&sort=new",
       "publishedAt": null,
-      "observedAt": "2026-03-22T22:00:24.438332+00:00",
-      "summary": "Scrape error: Reddit blocked access to the search RSS (HTTP 403).",
+      "observedAt": "2026-03-23T02:00:27.109264+00:00",
+      "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     }
   ],
   "highlights": [],
   "patchNotes": {
-    "updatedAt": "2026-03-22T22:00:24.438796+00:00",
+    "updatedAt": "2026-03-23T02:00:27.109778+00:00",
     "items": []
   },
   "tierList": {
-    "updatedAt": "2026-03-22T22:00:24.438803+00:00",
+    "updatedAt": "2026-03-23T02:00:27.109785+00:00",
     "method": "auto-placeholder-until-signal-model-enabled",
     "tiers": {
       "S": [
