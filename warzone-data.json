@@ -8,11 +8,11 @@
   "items": [
     {
       "source": "cod_blog",
-      "title": "cod_blog fetch error",
+      "title": "Call of Duty Blog — fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
       "observedAt": "2026-04-09T22:00:22.579947+00:00",
-      "summary": "Scrape error: [Errno 60] Operation timed out",
+      "summary": "Scrape error: connection timed out while fetching the Call of Duty blog RSS feed (Errno 60).",
       "error": true
     }
   ],
