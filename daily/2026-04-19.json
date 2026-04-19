@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T18:00:28.819489+00:00",
+  "generatedAt": "2026-04-19T22:00:27.595688+00:00",
   "sources": [
     "https://www.callofduty.com/blog.rss",
     "https://www.reddit.com/r/CODWarzone/new/.rss",
@@ -11,18 +11,18 @@
       "title": "cod_blog fetch error",
       "url": "https://www.callofduty.com/blog.rss",
       "publishedAt": null,
-      "observedAt": "2026-04-19T18:00:25.611715+00:00",
+      "observedAt": "2026-04-19T22:00:25.465825+00:00",
       "summary": "Scrape error: The read operation timed out",
       "error": true
     }
   ],
   "highlights": [],
   "patchNotes": {
-    "updatedAt": "2026-04-19T18:00:28.819522+00:00",
+    "updatedAt": "2026-04-19T22:00:27.595722+00:00",
     "items": []
   },
   "tierList": {
-    "updatedAt": "2026-04-19T18:00:28.819529+00:00",
+    "updatedAt": "2026-04-19T22:00:27.595728+00:00",
     "method": "auto-placeholder-until-signal-model-enabled",
     "tiers": {
       "S": [
